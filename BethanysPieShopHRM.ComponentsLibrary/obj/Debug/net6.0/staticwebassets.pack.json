@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "PackagePath": "staticwebassets\\deliveryMap.js"
+    },
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\marker-icon-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\marker-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BethanysPieShopHRM.ComponentsLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BethanysPieShopHRM.ComponentsLibrary.props",
+      "PackagePath": "build\\BethanysPieShopHRM.ComponentsLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BethanysPieShopHRM.ComponentsLibrary.props",
+      "PackagePath": "buildMultiTargeting\\BethanysPieShopHRM.ComponentsLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BethanysPieShopHRM.ComponentsLibrary.props",
+      "PackagePath": "buildTransitive\\BethanysPieShopHRM.ComponentsLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
