@@ -9,15 +9,14 @@
         <EditForm Model="@Employee" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
             <DataAnnotationsValidator />
             <ValidationSummary />
-            @if (Employee.EmployeeId == 0)
-            {
+       
                 <div class="row mb-3">
                     <label for="image" class="col-12 col-sm-3">Select image:</label>
                     <div class="col-md-8">
                         <InputFile OnChange="OnInputFileChange" />
                     </div>
                 </div>
-            }
+      
             <div class="row mb-3">
                 <label for="lastName" class="col-form-label col-md-3">Last name: </label>
                 <div class="col-md-8">
@@ -172,7 +171,7 @@
                 <label for="comment" class="col-form-label col-md-3">Comment: </label>
                 <div class="col-md-8">
                     <InputTextArea id="comment" class="form-control" @bind-Value="@Employee.Comment" placeholder="Enter comment"></InputTextArea>
-                </div>
+                </div>  
                 <ValidationMessage class="offset-md-3 col-md-8" For="@(()=>Employee.Comment)" />
 
             </div>
