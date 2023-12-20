@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mleos/source/repos/BethanysPieShopHRM/BethanysPieShopHRM/Components/AuthenticationStatus.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBdXRoZW50aWNhdGlvblN0YXR1cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mleos/source/repos/BethanysPieShopHRM/BethanysPieShopHRM/Components/EmployeeCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbXBsb3llZUNhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MPY+kym8dNxuttRLosi58dI7o38pSXWXM+3KZgoAnng=",
+  "Hash": "bN5w87bkEVckiKxfC8qpnJWDFgaVLHV4NxhAKNtvRUw=",
   "Source": "BethanysPieShopHRM.Api",
   "BasePath": "_content/BethanysPieShopHRM.Api",
   "Mode": "Default",
@@ -53,6 +53,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.25\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.25\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.25\\staticwebassets\\AuthenticationService.js"
+    },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.Api\\wwwroot\\Uploads\\Screenshot (184).png",
       "SourceId": "BethanysPieShopHRM.Api",
@@ -493,7 +510,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.25\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.25\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -510,7 +544,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.25\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -527,7 +561,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.25\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -544,7 +578,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.25\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.25\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -578,7 +629,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.25\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -799,7 +850,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -867,7 +918,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.jsinterop\\6.0.11\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\.nuget\\packages\\microsoft.jsinterop\\6.0.25\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -3811,23 +3862,6 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll"
     },
     {
-      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\1KTFqSIQ.gz",
-      "SourceId": "BethanysPieShopHRM",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\1w6s7J3C.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -4032,23 +4066,6 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.dll"
     },
     {
-      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\4z2s33QZ.gz",
-      "SourceId": "BethanysPieShopHRM",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\5+UgyQG3.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -4115,6 +4132,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Extensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\6izxupns.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\6mogmZpg.gz",
@@ -4865,23 +4899,6 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Console.dll"
     },
     {
-      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\FbE+O2i+.gz",
-      "SourceId": "BethanysPieShopHRM",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
-    },
-    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\fdT1JiXW.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -5033,6 +5050,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Requests.dll"
+    },
+    {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\GhXuG0L2.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\gJknf08q.gz",
@@ -5426,6 +5460,23 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Expressions.dll"
     },
     {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\jkrBE5f2.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\JqqtrXfn.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -5441,23 +5492,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.dll"
-    },
-    {
-      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\JuEK00bP.gz",
-      "SourceId": "BethanysPieShopHRM",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\K0uXrk5P.gz",
@@ -5596,6 +5630,23 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Core.dll"
     },
     {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\LGN2+gNt.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\LHEdYz6N.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -5715,21 +5766,21 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\Mn3Z1L2E.gz",
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\mMmpXyGN.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\N6BTxX9e.gz",
@@ -6293,6 +6344,23 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\Rvd4pY55.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\s1Q7aqWZ.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -6565,40 +6633,6 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.dll"
     },
     {
-      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\uI70Yp9p.gz",
-      "SourceId": "BethanysPieShopHRM",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
-      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\ukvGwSqf.gz",
-      "SourceId": "BethanysPieShopHRM",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\ulQp7udQ.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -6733,6 +6767,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.dll"
+    },
+    {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\vWA++EhM.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\VyY+XX3G.gz",
@@ -6922,6 +6973,23 @@
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.dll"
     },
     {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\xkBYEu1Z.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\XkfROwh1.gz",
       "SourceId": "BethanysPieShopHRM",
       "SourceType": "Project",
@@ -6971,6 +7039,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ValueTuple.dll"
+    },
+    {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\Y1292Qh+.gz",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\build-gz\\yBeVPjOw.gz",
@@ -7209,6 +7294,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BethanysPieShopHRM.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\appsettings.json",
+      "SourceId": "BethanysPieShopHRM",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\css\\app.css",

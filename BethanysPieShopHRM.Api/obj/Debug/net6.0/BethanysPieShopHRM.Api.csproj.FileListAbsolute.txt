@@ -93,3 +93,5 @@ C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM.Api\bin\Debug\
 C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.staticwebassets.runtime.json
 C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.dll
 C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.pdb
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
