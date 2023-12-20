@@ -835,3 +835,12 @@ C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6
 C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
 C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\Blazored.LocalStorage.dll
 C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\build-gz\ALsuLBBQ.gz
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.dll
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.pdb
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.pdb.gz
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.dll.gz
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.dll
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.pdb
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\build-gz\crIQ+WrS.gz
+C:\Users\mleos\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\build-gz\7MxFZpLW.gz

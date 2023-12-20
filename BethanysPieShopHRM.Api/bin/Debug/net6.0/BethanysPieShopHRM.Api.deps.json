@@ -680,6 +680,7 @@
       },
       "BethanysPieShopHRM/1.0.0": {
         "dependencies": {
+          "BethanysPieShopHRM.ComponentsLibrary": "1.0.0",
           "BethanysPieShopHRM.Shared": "1.0.0",
           "Blazored.LocalStorage": "4.2.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.11",
@@ -687,6 +688,15 @@
         },
         "runtime": {
           "BethanysPieShopHRM.dll": {}
+        }
+      },
+      "BethanysPieShopHRM.ComponentsLibrary/1.0.0": {
+        "dependencies": {
+          "BethanysPieShopHRM.Shared": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.11"
+        },
+        "runtime": {
+          "BethanysPieShopHRM.ComponentsLibrary.dll": {}
         }
       },
       "BethanysPieShopHRM.Shared/1.0.0": {
@@ -1200,6 +1210,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "BethanysPieShopHRM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BethanysPieShopHRM.ComponentsLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

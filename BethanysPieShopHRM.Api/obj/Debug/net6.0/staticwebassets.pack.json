@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mleos\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM.Api\\wwwroot\\Uploads\\Screenshot (184).png",
+      "PackagePath": "staticwebassets\\Uploads\\Screenshot (184).png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BethanysPieShopHRM.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BethanysPieShopHRM.Api.props",
+      "PackagePath": "build\\BethanysPieShopHRM.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BethanysPieShopHRM.Api.props",
+      "PackagePath": "buildMultiTargeting\\BethanysPieShopHRM.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BethanysPieShopHRM.Api.props",
+      "PackagePath": "buildTransitive\\BethanysPieShopHRM.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
