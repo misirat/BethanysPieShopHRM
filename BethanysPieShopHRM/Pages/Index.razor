@@ -1,0 +1,10 @@
+﻿@page "/"
+
+<h1>Hello, Welcome to Bethany's Pie Shop HRM</h1>
+<br />
+<h3>Through this app, you can manage our wonderful working staffs in branches all around the country!</h3>
+<br />
+
+@foreach(var widgetType in Widgets) {
+    <DynamicComponent Type="widgetType"></DynamicComponent>
+}
